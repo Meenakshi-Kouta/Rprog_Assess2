@@ -1,4 +1,3 @@
-##cache matrix
 makeCacheMatrix <- function(x = matrix()) {
   j <- NULL
   set <- function(y){
